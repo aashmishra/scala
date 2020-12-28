@@ -1,0 +1,19 @@
+ScalaBasics/.idea
+ScalaBasics/build
+ScalaBasics/dist
+out
+project/project
+project/target
+target
+/metastore_db
+/derby.log
+# User-specific stuff
+.idea/*
+/.idea/*
+/.idea
+*scala_compiler.xml
+asd.sc
+
+
+
+
